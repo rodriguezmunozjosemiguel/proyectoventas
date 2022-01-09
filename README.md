@@ -1,16 +1,16 @@
 # Proyecto de ventas
 
 
-** Nombre: José Miguel **
+**Nombre: José Miguel**
 
 
-** Apellidos: Rodríguez Muñoz **
+**Apellidos: Rodríguez Muñoz**
 
 
-** Curso: 1ºAsir A **
+**Curso: 1ºAsir A**
 
 
-** Fecha: 06/01/22 **
+**Fecha: 06/01/22**
 
 * En este breve párrafo dare una introducción de este proyecto,la idea de este proyecto es crear una,
 base de datos relacionada con la venta de cada uno de los artículos que vende nuestra empresa,en 
