@@ -1,6 +1,6 @@
 # Proyecto de ventas
 
-![alt text] (https://empresaylimpieza.com/upload/img/periodico/img_5235.jpg)
+![alt text](https://empresaylimpieza.com/upload/img/periodico/img_5235.jpg)
 
 
 **Nombre: José Miguel**
