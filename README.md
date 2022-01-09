@@ -16,23 +16,23 @@
 base de datos relacionada con la venta de cada uno de los artículos que vende nuestra empresa,en 
 ella se nombra los siguientes campos de matriz;
 
--producto
+-***producto***
 
--descuento que será representado en porcentaje
+-***descuento que será representado en porcentaje***
 
--categoría de cada producto
+-***categoría de cada producto***
 
--precio de coste(€)
+-***precio de coste(€)***
 
--precio de venta(€)
+-***precio de venta(€)***
 
--fecha venta
+-***fecha venta***
 
--unidades del producto
+-***unidades del producto***
 
--tiempo de llegada del producto(en h)
+-***tiempo de llegada del producto(en h)***
 
--cliente que lo compra
+-***cliente que lo compra***
 
--empleado/vendedor que lo vende
+-***empleado/vendedor que lo vende***
      
